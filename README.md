@@ -13,11 +13,11 @@ how to use family safe electricity make glasses and how to use electricity to sh
 
 
 
-——————————
-虚拟,现实
-电脑游戏驾驶汽车,用电脑控制汽车
-左虚拟,右现实
+—————————— </br>
+虚拟,现实   </br>
+电脑游戏驾驶汽车,用电脑控制汽车 </br>
+左虚拟,右现实   </br>
 
-一块显示器,两个视屏
+一块显示器,两个视屏 </br>
 
-控制游戏盒
+游戏盒与屏幕的关系 </br>
