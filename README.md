@@ -10,3 +10,14 @@ how to control physic file and how to write programm   </br>
 
 how to use family safe electricity make glasses and how to use electricity to show image </br>
 如何用家庭安全用电制造一个类似谷歌眼镜的一块眼镜屏幕并且学习如何用电，显示出想要的图型 </br>
+
+
+
+——————————
+虚拟,现实
+电脑游戏驾驶汽车,用电脑控制汽车
+左虚拟,右现实
+
+一块显示器,两个视屏
+
+控制游戏盒
