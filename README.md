@@ -21,3 +21,5 @@ how to use family safe electricity make glasses and how to use electricity to sh
 一块显示器,两个视屏 </br>
 
 游戏盒与屏幕的关系 </br>
+
+沈阳警察用两块屏幕(两台电脑,一台主机),但是我只想用一块屏幕(一个主机一个屏幕)</br>
